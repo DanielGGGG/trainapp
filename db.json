@@ -22,10 +22,32 @@
     {
       "userId": 1,
       "id": 1,
+      "picture": "https://i.imgur.com/2bm6trU.jpg?1",
+      "description": "My first picture, the start of the journey!",
+      "created_at": "2017-06-19T21:14:30.000Z"
+    },{
+      "userId": 1,
+      "id": 2,
+      "picture": "https://i.imgur.com/bL42qEl.jpg?1",
+      "description": "1 month later, already seeing some change",
+      "created_at": "2017-07-19T21:14:30.000Z"
+    },{
+      "userId": 1,
+      "id": 3,
+      "picture": "https://i.imgur.com/Cf2iCgP.jpg?1",
+      "description": "2 months later now, glad I started this journey as I can already see a big change versus 2 months ago",
+      "created_at": "2017-08-19T21:14:30.000Z"
+    },
+    {
+      "userId": 1,
+      "id": 4,
       "picture": "https://i.imgur.com/QSNgmGp.jpg?1",
-      "description": "So far so good!",
-      "created_at": "1975-08-19T21:14:30.000Z"
+      "description": "Ripped! ",
+      "created_at": "2017-09-19T21:14:30.000Z"
     }
+
+
+
   ],
   "comments": [
     {
@@ -33,7 +55,7 @@
       "id": 1,
       "body": "Goed bezig !",
       "postId": 1,
-      "created_at": "2018-08-19T22:15:30.000Z"
+      "created_at": "2018-0-19T22:15:30.000Z"
     },
     {
       "userId": 1,
