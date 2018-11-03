@@ -1,46 +1,46 @@
 {
   "users": [
     {
-      "ID": 1,
-      "name": "Daniel",
+      "id": 1,
+      "name": "Martijn",
+      "min_profile_picture": "https://i.dailymail.co.uk/i/pix/2017/04/20/13/3F6B966D00000578-4428630-image-m-80_1492690622006.jpg ",
+      "max_profile_picture": "https://i.dailymail.co.uk/i/pix/2017/04/20/13/3F6B966D00000578-4428630-image-m-80_1492690622006.jpg ",
       "password": "123456",
       "created_at": "1975-08-19T19:15:30.000Z"
     },
     {
-      "ID": 2,
-      "name": "Matthias",
+      "id": 2,
+      "name": "Henk",
+      "min_profile_picture": "https://static1.squarespace.com/static/54f74f23e4b0952b4e0011c0/t/5ad5431e88251baeaac75f49/1523925845937/chris+hanna+bb.jpg ",
+      "max_profile_picture": " https://static1.squarespace.com/static/54f74f23e4b0952b4e0011c0/t/5ad5431e88251baeaac75f49/1523925845937/chris+hanna+bb.jpg",
       "password": "hoihoi",
       "created_at": "1975-08-19T20:12:30.000Z"
     }
+
   ],
-
-
   "posts": [
     {
-      "userID": 1,
-      "ID": 1,
-      "picture": "https://i.imgur.com/QSNgmGp.jpg?1",
+      "userId": 1,
+      "id": 1,
+      "picture": "https://imgur.com/a/q6WSFAI",
       "description": "So far so good!",
       "created_at": "1975-08-19T21:14:30.000Z"
     }
   ],
-
-
   "comments": [
     {
-      "userID": 2,
-      "ID": 1,
+      "userId": 2,
+      "id": 1,
       "body": "Goed bezig !",
-      "postID": 1,
-      "created_at" : "2018-08-19T22:15:30.000Z"
+      "postId": 1,
+      "created_at": "2018-08-19T22:15:30.000Z"
     },
-
     {
-      "userID": 1,
-      "ID": 2,
+      "userId": 1,
+      "id": 2,
       "body": "Thanks gast!",
-      "postID": 1,
-      "created_at" : "2018-08-19T23:15:31.000Z"
+      "postId": 1,
+      "created_at": "2018-08-19T23:15:31.000Z"
     }
   ]
 }
