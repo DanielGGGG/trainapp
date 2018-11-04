@@ -44,6 +44,20 @@
       "picture": "https://i.imgur.com/QSNgmGp.jpg?1",
       "description": "Ripped! ",
       "created_at": "2017-09-19T21:14:30.000Z"
+    },
+    {
+      "userId": 2,
+      "id": 5,
+      "picture": "https://i.imgur.com/6RvBJEz.jpg?1",
+      "description": "2 months later now, glad I started this journey as I can already see a big change versus 2 months ago",
+      "created_at": "2017-09-19T21:14:30.000Z"
+    },
+    {
+      "userId": 2,
+      "id": 6,
+      "picture": "https://i.imgur.com/I6N8KJN.jpg?1",
+      "description": "Ripped! ",
+      "created_at": "2017-10-19T21:14:30.000Z"
     }
 
 
